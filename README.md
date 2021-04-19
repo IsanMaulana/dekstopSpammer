@@ -8,11 +8,6 @@
 <a href="https://github.com/IsanMaulana"><img title="Author" src="https://img.shields.io/badge/Author-Ihsan Maulana-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
-## APIKEY & Author Packname sticker
-Buka file config.json dan paste apikey di YOUR_APIKEY
-- [VHTEAR](https://api.vhtear.com)
-- [Youtube-APIV3](https://www.youtube.com/watch?v=TE66McLMMEw)
-
 ### Instalasi Pip module
 
 ```bash
