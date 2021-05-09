@@ -107,7 +107,7 @@ def manualmode():
 	tanyain()
 
 def bommode():
-	jumlahbom = randint(20, 40)
+	jumlahbom = randint(20, 100)
 	pesanbom = input("Masukan Pesan yang akan di spam (Abaikan jika text dari clipboard) : ")
 	delaybom = int(input("Masukan delay waktu dalam milisec (disarankan 2000) : "))
 	print(f'Pesan yang akan di spam yaitu {pesanbom} dengan jumlah {jumlahbom}')
